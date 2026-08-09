@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🎮 My games portfolio: https://arthurgps2.github.io
+- 🔭 I’m currently working on my thesis project for college
+- 🌱 I’m currently learning Godot
+- 👯 I’m looking to collaborate on game and software development
+- 📫 How to reach me: [email](mailto:arthurgps2@proton.me)
+- ⚡ Fun fact: My first contact with programming was on Roblox Studio when I was 10 y.o.!
+
+
 <!--
 **arthurgps2/arthurgps2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
